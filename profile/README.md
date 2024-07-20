@@ -1,7 +1,7 @@
 
 # Fiftysix: The Decentralization Company
 
-Welcome! Our mission is to make blockchain technology accessible, efficient, and reliable through robust decentralization. We're dedicated to supporting the blockchain ecosystem by building, hosting, and educating on decentralized networks.
+Welcome! Our mission is to make blockchain technology accessible, efficient, and reliable through decentralization. We're dedicated to supporting the blockchain ecosystem by building, hosting, and educating on decentralized networks.
 
 ## Manifesto
 
