@@ -42,7 +42,7 @@ Start any blockchain node, anywhere. One command. No experience required.
 ## Resources
 
 - **Nodevin:** Simplify running and managing blockchain nodes with Nodevin. Check out the [Nodevin GitHub Repository](https://github.com/fiftysixcrypto/nodevin) for more information.
-- **Fiftysix Dockerhub:** Easily deploy and manage blockchain software in your containerized environments. Access pre-built images, pull the latest versions, and more on our [Fiftysix Dockerhub](https://hub.docker.com/u/fiftysixcrypto).
+- **Fiftysix Dockerhub:** Easily deploy and manage blockchain software in your containerized environments. Access pre-built images, pull the latest versions, and more on our [Fiftysix Dockerhub](https://hub.docker.com/u/fiftysix).
 - **Ethereum Developer Resources:** Explore a curated list of smart contracts, tutorials, guides, and more for both beginner and advanced developers interested in building on Ethereum (and EVM compatible blockchains) in our [Ethereum Developer Resources](https://github.com/fiftysixcrypto/ethereum-dev-resources).
 
 ## Contributing
