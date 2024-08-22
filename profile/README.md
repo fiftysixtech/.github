@@ -53,7 +53,7 @@ Contributions are welcome! Please submit a pull request or open an issue on GitH
 
 - Website: [fiftysix.xyz](https://fiftysix.xyz)
 - Twitter/X: [fiftysixcrypto](https://x.com/fiftysixcrypto)
-- Discord: --
+- Discord: [Nodevin](https://discord.com/invite/XuhW2ykW3D)
 
 For questions or suggestions, contact us at [nodes@fiftysix.xyz](mailto:nodes@fiftysix.xyz).
 
