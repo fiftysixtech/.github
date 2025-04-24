@@ -11,7 +11,7 @@ Fiftysix empowers individuals and organizations to engage with blockchain techno
 
 The blockchain space has grown significantly since the release of the Bitcoin whitepaper. However, the core principles of decentralization are often overlooked in favor of speed and cost. We strive to address this imbalance by focusing on network decentralization.
 
-[Read More Here](https://fiftysix.xyz/#/manifesto)
+[Read More Here](https://fiftysix.xyz/)
 
 ## Nodevin
 
