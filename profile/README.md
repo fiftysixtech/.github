@@ -1,62 +1,61 @@
+# Fiftysix: Learn Crypto With Clarity
 
-# Fiftysix: The Decentralization Company
+Welcome! We’re an independent education company on a mission to make cryptocurrency clear, useful, and accessible.
 
-Welcome! Our mission is to make blockchain technology accessible, efficient, and reliable through decentralization. We're dedicated to supporting the blockchain ecosystem by building, hosting, and educating on decentralized networks.
+Our work spans free resources, hands-on tools, and high quality content that helps people move from crypto-curious to crypto-capable. Whether you're looking to enter the space, write smart contracts, or run nodes, Fiftysix is built to meet you where you are.
 
-## Manifesto
+## About Us
 
-> "What is needed is an electronic payment system based on cryptographic proof instead of trust, allowing any two willing parties to transact directly with each other without the need for a trusted third party." - Satoshi Nakamoto, Bitcoin Whitepaper
+> “Without clarity, crypto feels like chaos. With it, you see where the future is going.” — Daniel Peter, Founder of Fiftysix
 
-Fiftysix empowers individuals and organizations to engage with blockchain technology by lowering barriers to entry.
+Crypto was never meant to be exclusive. It was built for open access, privacy, and sovereignty. At Fiftysix, we believe understanding is the first step toward participation — and participation is the path to progress.
 
-The blockchain space has grown significantly since the release of the Bitcoin whitepaper. However, the core principles of decentralization are often overlooked in favor of speed and cost. We strive to address this imbalance by focusing on network decentralization.
+Fiftysix isn’t just about onboarding. It’s about bridging the gap — making sure people understand that this space isn’t built for bad actors. It’s built for all of us, to shape the future on our terms. And we can’t get there unless people first understand why crypto matters.
 
-[Read More Here](https://fiftysix.xyz/)
+[Explore Fiftysix](https://fiftysixcrypto.com)
 
-## Nodevin
+## Our Developer Tools
 
-Our open-source software [Nodevin](https://github.com/fiftysixcrypto/nodevin) facilitates blockchain decentralization, strengthening networks and fostering innovation.
+### Nodevin
 
-Start any blockchain node, anywhere. One command. No experience required.
+Our open-source software Nodevin ([repo](https://github.com/fiftysixcrypto/nodevin)) facilitates blockchain decentralization, strengthening networks and fostering innovation.
 
-## What We Do
+*Perfect for developers, learners, and teams looking to support networks directly.*
 
-### Host
+- [Nodevin Website](https://nodevin.xyz)
 
-- **Blockchain Software:** Facilitate staking, mining, and reliable RPC access.
-- **Node Infrastructure:** Work with projects to set up and support blockchain nodes.
-- **Infrastructure for Public Access:** Connect users to any blockchain by hosting free, public RPC infrastructure.
+### Ethereum Developer Resources
 
-### Build
+A curated library of [Ethereum Developer Resources](https://github.com/fiftysixcrypto/ethereum-developer-resources): contracts, guides, and tools for building on Ethereum and EVM-compatible chains.
 
--   **Node Management Software:** Simplify setting up, managing, and updating blockchain nodes.
--   **Widespread Decentralization:** Enable users to run nodes on their own hardware.
--   **Automatic Updates:** Integrate released software versions, automatically updating **all** nodes running with [Nodevin](https://github.com/fiftysixcrypto/nodevin).
+*Perfect for both new and seasoned developers to brush up on Solidity and Ethereum knowledge.*
 
-### Educate
+### Dockerhub
 
-- **Blockchain Concepts:** Teach integration, security, and efficiency.
-- **Project Support:** Assist with blockchain launches from start to finish.
-- **Open-Source Content:** Share educational materials for developers and enthusiasts.
+Run blockchain software in seconds using pre-built, containerized images via [Fiftysix on Dockerhub](https://hub.docker.com/u/fiftysix). Lightweight, flexible, and production-ready.
 
-## Resources
+*Perfect for users interacting with Nodevin, or interested in running specialized node setups.*
 
-- **Nodevin:** Simplify running and managing blockchain nodes with Nodevin. Check out the [Nodevin GitHub Repository](https://github.com/fiftysixcrypto/nodevin) for more information.
-- **Fiftysix Dockerhub:** Easily deploy and manage blockchain software in your containerized environments. Access pre-built images, pull the latest versions, and more on our [Fiftysix Dockerhub](https://hub.docker.com/u/fiftysix).
-- **Ethereum Developer Resources:** Explore a curated list of smart contracts, tutorials, guides, and more for both beginner and advanced developers interested in building on Ethereum (and EVM compatible blockchains) in our [Ethereum Developer Resources](https://github.com/fiftysixcrypto/ethereum-dev-resources).
+## What We Offer
+
+* **Free Starter Briefs** — Downloadable 2-page explainers on Bitcoin, Ethereum, blockchain technology, and more.
+* **Paid Courses** — 56-minute deep dives for beginners interested in learning more about the space.
+* **Newsletter** — Weekly insights, zero hype, all clarity.
+* **Developer Tools** — Open-source GitHub repos, Docker images, and curated toolkits.
+* **Affiliate Tools** — A vetted collection of wallets and apps, complete with transparent referral links.
 
 ## Contributing
 
-Contributions are welcome! Please submit a pull request or open an issue on GitHub.
+We welcome contributions to Nodevin, our educational content, and developer resources. Open an issue or submit a pull request — your input strengthens the ecosystem.
 
-## Contact
+## Connect
 
-- Website: [fiftysix.xyz](https://fiftysix.xyz)
-- Twitter/X: [fiftysixcrypto](https://x.com/fiftysixcrypto)
-- Discord: [Nodevin](https://discord.com/invite/XuhW2ykW3D)
+* Website: [fiftysixcrypto.com](https://fiftysixcrypto.com)
+* Twitter/X: [@fiftysixcrypto](https://x.com/fiftysixcrypto)
+* LinkedIn: [fiftysixcrypto](https://www.linkedin.com/company/fiftysixcrypto)
 
-For questions or suggestions, contact us at [nodes@fiftysix.xyz](mailto:nodes@fiftysix.xyz).
+**Email:** [hello@fiftysixcrypto.com](mailto:hello@fiftysixcrypto.com)
 
-For business inquiries, send us an email at [business@fiftysix.xyz](mailto:business@fiftysix.xyz).
+---
 
-Thank you for supporting Fiftysix and our mission to pioneer decentralization in the blockchain space!
+Thank you for supporting Fiftysix and our mission to teach crypto with clarity!
