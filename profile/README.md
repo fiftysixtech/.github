@@ -1,61 +1,54 @@
-# Fiftysix: Learn Crypto With Clarity
+# Fiftysix: Strategic Tech Consulting for Startups
 
-Welcome! We’re an independent education company on a mission to make cryptocurrency clear, useful, and accessible.
+Welcome to Fiftysix - a hands-on consultancy helping founders, startups, and small teams build smarter with web development, blockchain, automation, and AI.
 
-Our work spans free resources, hands-on tools, and high quality content that helps people move from crypto-curious to crypto-capable. Whether you're looking to enter the space, write smart contracts, or run nodes, Fiftysix is built to meet you where you are.
+We deliver solutions through project-based builds, technical advising, and infrastructure automation. From strategy to code, we simplify complex tech and accelerate execution so you can focus on building.
 
 ## About Us
 
-> “Without clarity, crypto feels like chaos. With it, you see where the future is going.” — Daniel Peter, Founder of Fiftysix
+> “The best technologies amplify what people were always capable of.”
+> — Daniel Peter, Founder of Fiftysix
 
-Crypto was never meant to be exclusive. It was built for open access, privacy, and sovereignty. At Fiftysix, we believe understanding is the first step toward participation — and participation is the path to progress.
+Fiftysix was founded to remove the friction between ideas and impact. We work directly with founders and operators to plan, build, and automate products that save time, reduce costs, and scale intelligently.
 
-Fiftysix isn’t just about onboarding. It’s about bridging the gap — making sure people understand that this space isn’t built for bad actors. It’s built for all of us, to shape the future on our terms. And we can’t get there unless people first understand why crypto matters.
+We believe startups shouldn't have to choose between speed and strategy. Whether you're launching your first MVP, optimizing your backend, or need a quality website for cheap, we handle the hard parts.
 
-[Explore Fiftysix](https://fiftysixcrypto.com)
+[Explore Our Work](https://fiftysix.tech)
 
-## Our Developer Tools
+## Tools & Resources
 
 ### Nodevin
 
-Our open-source software Nodevin ([repo](https://github.com/fiftysixcrypto/nodevin)) facilitates blockchain decentralization, strengthening networks and fostering innovation.
+[Nodevin](https://nodevin.xyz) is our open-source node deployment tool for blockchain networks — a fully containerized, developer-ready toolkit for spinning up reliable infrastructure fast.
 
-*Perfect for developers, learners, and teams looking to support networks directly.*
-
-- [Nodevin Website](https://nodevin.xyz)
+* [View the Repo](https://github.com/fiftysixtech/nodevin)
+* [View our Dockerhub](https://hub.docker.com/u/fiftysix)
 
 ### Ethereum Developer Resources
 
-A curated library of [Ethereum Developer Resources](https://github.com/fiftysixcrypto/ethereum-developer-resources): contracts, guides, and tools for building on Ethereum and EVM-compatible chains.
+Our [Ethereum Developer Resources](https://github.com/fiftysixtech/ethereum-developer-resources) include curated guides, contract templates, and toolkits for building on Ethereum and EVM-compatible chains.
 
-*Perfect for both new and seasoned developers to brush up on Solidity and Ethereum knowledge.*
-
-### Dockerhub
-
-Run blockchain software in seconds using pre-built, containerized images via [Fiftysix on Dockerhub](https://hub.docker.com/u/fiftysix). Lightweight, flexible, and production-ready.
-
-*Perfect for users interacting with Nodevin, or interested in running specialized node setups.*
+*Ideal for solo devs and teams building smart contract–based products.*
 
 ## What We Offer
 
-* **Free Starter Briefs** — Downloadable 2-page explainers on Bitcoin, Ethereum, blockchain technology, and more.
-* **Paid Courses** — 56-minute deep dives for beginners interested in learning more about the space.
-* **Newsletter** — Weekly insights, zero hype, all clarity.
-* **Developer Tools** — Open-source GitHub repos, Docker images, and curated toolkits.
-* **Affiliate Tools** — A vetted collection of wallets and apps, complete with transparent referral links.
+* **Project-Based Builds** — From zero to launch, we scope, design, and ship full-stack products.
+* **Fractional CTO Services** — Ongoing technical leadership without the full-time cost.
+* **Infra Automation** — Scripts, pipelines, and setups to reduce tech debt and save engineering time.
+* **Startup Strategy Sessions** — One-on-one guidance to roadmap, prioritize, or debug your stack.
+* **Free Resources** — Developer tools and explainers to make emerging tech understandable.
 
 ## Contributing
 
-We welcome contributions to Nodevin, our educational content, and developer resources. Open an issue or submit a pull request — your input strengthens the ecosystem.
+We welcome thoughtful contributions to Nodevin, Ethereum tools, and our open-source infrastructure work. Open an issue or submit a pull request — your input makes the ecosystem better for all builders.
 
-## Connect
+## Connect With Us
 
-* Website: [fiftysixcrypto.com](https://fiftysixcrypto.com)
-* Twitter/X: [@fiftysixcrypto](https://x.com/fiftysixcrypto)
-* LinkedIn: [fiftysixcrypto](https://www.linkedin.com/company/fiftysixcrypto)
-
-**Email:** [hello@fiftysixcrypto.com](mailto:hello@fiftysixcrypto.com)
+* Website: [fiftysix.tech](https://fiftysix.tech)
+* Twitter/X: [@fiftysixtech](https://x.com/fiftysixtech)
+* LinkedIn: [fiftysixtech](https://www.linkedin.com/company/fiftysixtech)
+* Email: [hello@fiftysix.tech](mailto:hello@fiftysix.tech)
 
 ---
 
-Thank you for supporting Fiftysix and our mission to teach crypto with clarity!
+**Fiftysix – Simplifying complex tech so startups can build faster, smarter, and with confidence.**
