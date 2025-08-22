@@ -48,7 +48,3 @@ We welcome thoughtful contributions to Nodevin, Ethereum tools, and our open-sou
 * Twitter/X: [@fiftysixtech](https://x.com/fiftysixtech)
 * LinkedIn: [fiftysixtech](https://www.linkedin.com/company/fiftysixtech)
 * Email: [hello@fiftysix.tech](mailto:hello@fiftysix.tech)
-
----
-
-**Fiftysix – Simplifying complex tech so startups can build faster, smarter, and with confidence.**
