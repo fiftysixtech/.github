@@ -1,21 +1,38 @@
-# Fiftysix: Strategic Tech Consulting for Startups
+# Fiftysix: Technical Advisory for Founders
 
-Welcome to Fiftysix - a hands-on consultancy helping founders, startups, and small teams build smarter with web development, blockchain, automation, and AI.
+Fiftysix is a technical advisory focused on helping founders think clearly and make confident technical decisions.
 
-We deliver solutions through project-based builds, technical advising, and infrastructure automation. From strategy to code, we simplify complex tech and accelerate execution so you can focus on building.
+Rather than selling predefined projects or acting as a traditional agency, Fiftysix works alongside founders in an ongoing advisory capacity — holding context, clarifying tradeoffs, and helping teams choose grounded paths forward as products take shape.
+
+Our work sits at the intersection of practical engineering, emotional intelligence, and long-term judgment.
 
 ## About Us
 
-> “The best technologies amplify what people were always capable of.”
+> "I help founders think clearly so they can build in a way that still feels like them."
 > — Daniel Peter, Founder of Fiftysix
 
-Fiftysix was founded to remove the friction between ideas and impact. We work directly with founders and operators to plan, build, and automate products that save time, reduce costs, and scale intelligently.
+Fiftysix was founded to reduce confusion around technical decisions.
 
-We believe startups shouldn't have to choose between speed and strategy. Whether you're launching your first MVP, optimizing your backend, or need a quality website for cheap, we handle the hard parts.
+We work directly with founders and small teams as a steady technical thinking partner, helping them reason through architecture, infrastructure, product direction, and emerging technologies without unnecessary urgency or complexity.
 
 [Explore Our Work](https://fiftysix.tech)
 
-## Tools & Resources
+## What This Looks Like in Practice
+
+Advisory and consulting work may include:
+
+- Technical and architectural review
+- Clarifying tradeoffs and risks
+- Systems and infrastructure reasoning
+- Research and synthesis around emerging tools
+- Decision framing and prioritization
+- Selective implementation when helpful
+
+Engagements are ongoing, contextual, and relationship-based rather than transactional.
+
+## Open Source & Tools
+
+The repositories here reflect tools and resources developed alongside advisory work.
 
 ### Nodevin
 
@@ -29,14 +46,6 @@ We believe startups shouldn't have to choose between speed and strategy. Whether
 Our [Ethereum Developer Resources](https://github.com/fiftysixtech/ethereum-developer-resources) include curated guides, contract templates, and toolkits for building on Ethereum and EVM-compatible chains.
 
 *Ideal for solo devs and teams building smart contract–based products.*
-
-## What We Offer
-
-* **Project-Based Builds** — From zero to launch, we scope, design, and ship full-stack products.
-* **Fractional CTO Services** — Ongoing technical leadership without the full-time cost.
-* **Infra Automation** — Scripts, pipelines, and setups to reduce tech debt and save engineering time.
-* **Startup Strategy Sessions** — One-on-one guidance to roadmap, prioritize, or debug your stack.
-* **Free Resources** — Developer tools and explainers to make emerging tech understandable.
 
 ## Contributing
 
